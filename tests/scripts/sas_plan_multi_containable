@@ -1,0 +1,3 @@
+(pickup screwdriver arm)
+(dropoff screwdriver arm mug)
+; cost = 2 (unit cost)
